@@ -11,7 +11,7 @@ Users can search for youtube channels, and are provided with channel names and d
 Users can select their channel of interest
 <img width="600" alt="Screenshot 2024-10-22 at 11 58 25 PM" src="https://github.com/user-attachments/assets/b0d8a616-a887-485e-b138-f39b9e069fc5">
 <img width="600" alt="Screenshot 2024-10-22 at 11 58 45 PM" src="https://github.com/user-attachments/assets/07c2d29d-78aa-4aa8-bfe8-d2783f098d8b">
-
+<br>
 
 
 Users are provided some statistics from the most recent, available previous 15 videos
